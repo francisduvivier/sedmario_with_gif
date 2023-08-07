@@ -9,3 +9,6 @@ $ ./mario.sh
 ```
 
 Use left and right arrows to move, up arrow or space to jump.
+
+# Preview Gif
+![Preview Gif](playing_sed_mario_very_bad_1.gif)
